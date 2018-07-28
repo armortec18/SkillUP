@@ -1,0 +1,8 @@
+# ignore
+
+logs/
+
+#bash ignore
+
+docs/*.text
+
